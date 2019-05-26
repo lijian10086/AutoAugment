@@ -94,3 +94,7 @@ loader = DataLoader(data, ...)
 ### Fine Grained Visual Classification Datasets
 
 ![SVHN Results](figures/FGVC_results.png)
+
+### 李剑备注：
+https://zhuanlan.zhihu.com/p/58571849
+本代码相关的博客：AutoAugment(自动数据增强)
